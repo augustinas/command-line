@@ -1,0 +1,5 @@
+wc command prints the number of lines, words and characters in the specified document
+Following flags are useful:
+-l   gives only the number of lines
+-w   gives only the number of words
+-m   gives only the number of characters
